@@ -31,7 +31,9 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
           ),
         ),
         vsync: this,
-        child: const SizedBox(),
+        child: const Center(
+          child: Text("Animated background"),
+        ),
       ),
     );
   }

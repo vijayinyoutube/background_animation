@@ -52,7 +52,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 ## Sample results
 
 <div align="center">
-    <img src="" width="250" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="" width="250" height="500">  
+    <img src="https://user-images.githubusercontent.com/58719230/153862451-64e57376-fefb-49b8-9428-f89954c9d4fb.png" width="250" height="500"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/58719230/153862454-e4d04d64-a73e-44b7-9a1e-9c1bdbaeb1bb.png" width="250" height="500">  
 </div>  
 
 
